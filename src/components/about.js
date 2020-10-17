@@ -14,7 +14,9 @@ const About = () => {
                 <a><p>View Resume</p></a>
               </div>
               <div className='me'>
-                <p>Hi there! This guy right here is Yu, and he is a self taught software engineer. During his time in college, he dreams to be a software engineer but unfortunately things didn't end up the way he wanted it to. The road to his dream become steep but even so, his passion about programming is bigger than those obstacles. So every day he tries to learn new things, build application, practice framework and languages and work very hard to learn to become a software engineer. he is motivated to be one and even though it's hard, he enjoys every minutes of it because he knew all of the bugs, errors, and problems he cannot solve is a way for him to be a good software engineer. He believes that to achieve a goal in life, one must have this kind of traits. One is to never give up, two is to have a passion and motivation to the things that you do and last but not the least is having fun doing it.</p>
+               <p>Hi! I'm a software engineer who likes to spend much of his time coding things.</p>
+               <p>Back in my high school days, I've always loved solving logics and riddles during lunch breaks. At the end of senior high school, I've stumbled upon programming and I liked it. On that day forward i dreamed about becoming a programmer someday.</p>
+               <p>I enjoy solving complex coding problems and building web applications using (MERN). My main programming language is Javascript. Although I have fundamental knowledge about python and java, I am much comfortable writing in javascript. For the backend, I know fundamentals of sql and Mongodb. My passion and motivation for programming makes me want to contribute to the evolution of tech industries in the world while having fun doing it.</p>
               </div>
 
             </div>
