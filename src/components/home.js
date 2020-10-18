@@ -48,16 +48,16 @@ const Home = () => {
       }
     }
     let circles = [];
-    let colors = ['rgba(72, 72, 72, 0.5)', 'rgba(44, 44, 44, 0.5)', 'rgba(15, 15, 15, 0.5)', 'rgba(242,207,25, 0.5)']
+    let colors = ['rgba(44, 44, 44, 0.5)', 'rgba(15, 15, 15, 0.5)', 'rgba(75, 75, 75, 0.5)', 'rgba(95, 95, 95, 0.5)']
 
     const create = () => {
       for(let i = 0; i < 10; i++){
-        var radius = width * .15;
+        var radius = width * .20;
         var x = Math.random() * width;
         var y =   Math.random() * height;
         
-        var dx = Math.random() * 0.5 + 1;
-        var dy = Math.random() * 0.5 + 1;
+        var dx = (Math.random() * 0.5) + 1;
+        var dy = (Math.random() * 0.5) + 1;
         var color = colors[Math.floor(Math.random() * colors.length)];
   
         circles.push(new Circle(x, y, radius, dx, dy, color));
