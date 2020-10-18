@@ -11,7 +11,7 @@ const About = () => {
             <div className='myProfile'>
               <div className='myImage'>
                 <img src={yu}/>
-                <a href='https://drive.google.com/file/d/1VyhMCiqLaouoAbAVye_8vjpBTo3VPwno/view?usp=sharing' target='_blank'><p>View Resume</p></a>
+                <a href='https://drive.google.com/file/d/1CmPzj9R2nF1fwt0vht2jp94clmShwWSF/view?usp=sharing' target='_blank'><p>View Resume</p></a>
               </div>
               <div className='me'>
                <p>Hi! I'm a software engineer who likes to spend much of his time coding things.</p>
